@@ -1,0 +1,1 @@
+{"outputDirectory":"public","crons":[{"path":"/api/collect","schedule":"0 0 * * *"}],"headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}]}]}

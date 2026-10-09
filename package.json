@@ -1,0 +1,1 @@
+{"name":"roblox-pulse","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node dev.mjs","test":"node --test","check":"node --check public/app.js && node --check api/stats.js && node --check api/collect.js"},"engines":{"node":">=22"}}
